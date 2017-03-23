@@ -1,11 +1,13 @@
 h1{
           font-size:80px;
           color:red;
-          transform:rotate(11deg);
 }
 #sunnyface{
 
              height:256px;
              width:384px;
-
+}
+#Daddy{
+  font-size:40px;
+  color:purple;
 }
